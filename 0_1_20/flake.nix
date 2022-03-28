@@ -11,7 +11,6 @@
   inputs.src-macroplus-0_1_20.ref   = "refs/tags/0.1.20";
   inputs.src-macroplus-0_1_20.owner = "hamidb80";
   inputs.src-macroplus-0_1_20.repo  = "macroplus";
-  inputs.src-macroplus-0_1_20.dir   = "";
   inputs.src-macroplus-0_1_20.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

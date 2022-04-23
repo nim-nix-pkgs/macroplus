@@ -42,11 +42,11 @@
     "src-macroplus-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1648101953,
-        "narHash": "sha256-AJ3Ag//YWTny+YrG8WzLRIyEFAtJqwImZU4/MEQoIwQ=",
+        "lastModified": 1648384786,
+        "narHash": "sha256-2qCSshrwiWkjn8qCMgc44pHHxRamiIy4X3s8GHjiPi4=",
         "owner": "hamidb80",
         "repo": "macroplus",
-        "rev": "bba62226ac0cd5bdd21d2a94a3bbb3fa6349b263",
+        "rev": "09a0a1656568b74058255f8e86264af6513f8356",
         "type": "github"
       },
       "original": {

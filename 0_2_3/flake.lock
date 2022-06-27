@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-macroplus-main": "src-macroplus-main"
+        "src-macroplus-0_2_3": "src-macroplus-0_2_3"
       }
     },
-    "src-macroplus-main": {
+    "src-macroplus-0_2_3": {
       "flake": false,
       "locked": {
         "lastModified": 1655063223,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "hamidb80",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/0.2.3",
         "repo": "macroplus",
         "type": "github"
       }
